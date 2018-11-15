@@ -1,2 +1,2 @@
 项目说明：
-SpringCloud
+SpringCloud实现hystrix断路器
